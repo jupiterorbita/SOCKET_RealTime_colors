@@ -1,0 +1,28 @@
+h1{
+    background-color: darkslateblue;
+    color: white;
+    text-align: center;
+}
+div.center{
+    width:80%;
+    margin: 0 auto;
+}
+
+button.green{
+    width: 200px;
+    color: white;
+    background-color: green;
+    border-color: black;
+}
+button.red{
+    width: 200px;
+    color: white;
+    background-color: red;
+    border-color: black;
+}
+button.pink{
+    width: 200px;
+    color: white;
+    background-color: pink;
+    border-color: black;
+}
